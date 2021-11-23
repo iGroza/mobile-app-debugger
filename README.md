@@ -1,7 +1,9 @@
 # ⚛️ mobile-app-debugger
 
-![App Debugger client](./example/example.gif)
-[App Debugger client gif example](https://github.com/iGroza/mobile-app-debugger/blob/master/example/example.gif)
+![App Debugger client](https://media4.giphy.com/media/afXhgFXufSlLWf04q4/giphy.gif)
+
+[App Debugger client gif example](https://giphy.com/gifs/android-ios-react-native-afXhgFXufSlLWf04q4)
+
 
 ## 🚀 Install
 
