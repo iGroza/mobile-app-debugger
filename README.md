@@ -83,7 +83,7 @@ AppDebugger.logError(...args: any[]);
 
 ## Example of usage
 
-[See App.tsx in example directory](https://github.com/iGroza/mobile-app-debugger/blob/master/example/src/App.tsx)
+[See example in directory](https://github.com/iGroza/mobile-app-debugger/tree/master/example/src)
 
 ## Docs
 
