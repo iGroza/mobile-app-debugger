@@ -1,4 +1,4 @@
-package com.mobileappdebugger;
+package ru.kirillag.mobileappdebugger;
 
 import androidx.annotation.NonNull;
 
