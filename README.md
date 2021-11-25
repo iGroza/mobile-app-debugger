@@ -1,9 +1,9 @@
 # ⚛️ mobile-app-debugger
 
 <br/>
-<p align="center">
-  <img src="img/example-1.gif" alt="App Debugger client gif example" width="300">
-</p>
+  <p align="center">
+    <img src="example/img/example-1.gif" alt="App Debugger client gif example" width="300">
+  </p>
 <br/>
 
 [App Debugger client gif example](https://giphy.com/gifs/android-ios-react-native-afXhgFXufSlLWf04q4)
@@ -11,10 +11,10 @@
 
 ## 🚀 Install
 
-> first you have to install the debugger client on your smartphone
+### First you have to install the debugger client on your smartphone
 
-- Android client (coming soon)
-- iOS client (coming soon)
+- [Android client](https://play.google.com/store/apps/details?id=ru.kirillag.mobileappdebugger)
+- iOS client (the client is ready, the money is being collected for "Apple Developer membership")
 
 run
 
@@ -24,7 +24,12 @@ or
 
 `npm i mobile-app-debugger --save`
 
-## Mannualy instalation for Android
+## About
+
+It serves for debugging network requests, catching errors and crashes, as well as for viewing logs from a device with the ability to export data to JSON.
+
+## ‼️ Important
+### Installation for Android
 
 add below code in `AndroidManifest.xml` file in `application` section:
 
@@ -39,8 +44,9 @@ add below code in `AndroidManifest.xml` file in `application` section:
 
 ## 🪄 Usage
 
+### ⚙️ Setup
 ```typescript
-// 1. Configure debugger
+// Configure debugger
 import { AppDebugger } from 'app-debugger';
 
 AppDebugger.configure({
@@ -49,9 +55,13 @@ AppDebugger.configure({
   // optional, ovewrrite default console behavior and send logs to debugger client
   isOverwriteConsole: boolean;
 });
+```
 
-// 2. Usage
+### 🌐 Network handling
 
+> 💡 will soon have functionality for automatic catching of requests to the network
+
+```typescript
 // Send network data to debbuger client
 AppDebugger.network({
   url: string;
@@ -66,7 +76,14 @@ AppDebugger.network({
   resData?: Object;
   resHeaders?: Object;
 });
+```
 
+### ⚠️ Error catching
+Errors and crashes are automatically caught, and you do not need to do anything. But if you want to send custom error, you can also use the following API.
+
+> NOTE: If you override `componentDidCatch` you must also send an error from it yourself.
+
+```typescript
 // send error to debbuger client
 AppDebugger.error({
   // error object
@@ -76,7 +93,13 @@ AppDebugger.error({
   // any metadata to help you
   meta?: Object;
 });
+```
 
+### 💬 Send logs
+
+if you use `isOverwriteConsole: true` logs will be sent automatically
+
+```typescript
 // send console.log to debbuger client
 AppDebugger.log(...args: any[]);
 // send console.warn to debbuger client
