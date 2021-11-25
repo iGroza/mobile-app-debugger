@@ -15,6 +15,7 @@
 
 - [Android client](https://play.google.com/store/apps/details?id=ru.kirillag.mobileappdebugger)
 - iOS client (the client is ready, the money is being collected for "Apple Developer membership")
+> if you care, you can donate money [paypal.me/agkirill](https://paypal.me/agkirill), thanks 🙃
 
 run
 
