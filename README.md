@@ -17,8 +17,11 @@
 - iOS client (the client is ready, the money is being collected for "Apple Developer membership")
 > if you care, you can donate money, thanks 🙃
 > [paypal.me/agkirill](https://paypal.me/agkirill)
+> 
 > RUB - R115771767910
+> 
 > USD - Z233893567937
+> 
 > EUR - E585715598235
 
 run
