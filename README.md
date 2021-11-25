@@ -1,6 +1,10 @@
 # ⚛️ mobile-app-debugger
 
-![App Debugger client](https://media4.giphy.com/media/afXhgFXufSlLWf04q4/giphy.gif)
+<br/>
+<p align="center">
+  <img src="https://media4.giphy.com/media/afXhgFXufSlLWf04q4/giphy.gif" alt="ViewPager" width="300">
+</p>
+<br/>
 
 [App Debugger client gif example](https://giphy.com/gifs/android-ios-react-native-afXhgFXufSlLWf04q4)
 
