@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://media4.giphy.com/media/afXhgFXufSlLWf04q4/giphy.gif" alt="ViewPager" width="300">
+  <img src="img/example-1.gif" alt="App Debugger client gif example" width="300">
 </p>
 <br/>
 
