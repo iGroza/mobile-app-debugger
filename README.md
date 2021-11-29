@@ -18,7 +18,9 @@
 > if you care, you can donate money, thanks 🙃
 > 
 > [paypal.me/agkirill](https://paypal.me/agkirill)
-> 
+>
+> [t.me/CryptoBot](https://t.me/CryptoBot?start=IVVCfxzAPEhi)
+>
 > WMR - R115771767910
 > 
 > WMZ - Z233893567937
