@@ -1,31 +1,15 @@
 # ⚛️ mobile-app-debugger
 
-<br/>
-  <p align="center">
-    <img src="example/img/example-1.gif" alt="App Debugger client gif example" width="300">
-  </p>
-<br/>
-
-[App Debugger client gif example](https://giphy.com/gifs/android-ios-react-native-afXhgFXufSlLWf04q4)
-
+<p align="center">
+ <img src="https://i.ibb.co/YPkgszg/cover.png" alt="App Debugger client gif example" width="800">
+</p>
 
 ## 🚀 Install
 
 ### First you have to install the debugger client on your smartphone
 
 - [Android client](https://play.google.com/store/apps/details?id=ru.kirillag.mobileappdebugger)
-- iOS client (the client is ready, the money is being collected for "Apple Developer membership")
-> if you care, you can donate money, thanks 🙃
-> 
-> [paypal.me/agkirill](https://paypal.me/agkirill)
->
-> [t.me/CryptoBot](https://t.me/CryptoBot?start=IVVCfxzAPEhi)
->
-> WMR - R115771767910
-> 
-> WMZ - Z233893567937
-> 
-> WME - E585715598235
+- [iOS client](https://apps.apple.com/us/app/habit-tracker-трекер-привычек/id1601977203)
 
 run
 
@@ -120,9 +104,26 @@ AppDebugger.logError(...args: any[]);
 ```
 
 ## Example of usage
+  <p>
+    <img src="example/img/example-1.gif" alt="App Debugger client gif example" width="300">
+  </p>
 
-[See example in directory](https://github.com/iGroza/mobile-app-debugger/tree/master/example/src)
+[App Debugger client gif example](https://giphy.com/gifs/android-ios-react-native-afXhgFXufSlLWf04q4)
 
-## Docs
+
+#### [See example in directory](https://github.com/iGroza/mobile-app-debugger/tree/master/example/src)
+
+---
+
+> if you care, you can donate money, thanks 🙃
+>
+> [paypal.me/agkirill](https://paypal.me/agkirill)
+>
+> WMR - R115771767910
+>
+> WMZ - Z233893567937
+>
+> WME - E585715598235
+---
 
 [Privacy policy](https://www.termsfeed.com/live/b41d66d1-43ba-48af-88b0-c14ec71bd810)
