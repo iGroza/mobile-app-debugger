@@ -1,8 +1,9 @@
 # ⚛️ mobile-app-debugger
 
-<p align="center">
+<p>
  <img src="https://i.ibb.co/YPkgszg/cover.png" alt="App Debugger client gif example" width="800">
 </p>
+
 
 ## 🚀 Install
 
@@ -18,6 +19,8 @@ run
 or
 
 `npm i mobile-app-debugger --save`
+
+[example of usage](#example)
 
 ## About
 
@@ -103,6 +106,7 @@ AppDebugger.logWarn(...args: any[]);
 AppDebugger.logError(...args: any[]);
 ```
 
+<a name="example"></a>
 ## Example of usage
   <p>
     <img src="example/img/example-1.gif" alt="App Debugger client gif example" width="300">
