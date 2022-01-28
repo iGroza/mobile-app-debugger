@@ -10,7 +10,7 @@
 ### First you have to install the debugger client on your smartphone
 
 - [Android client](https://play.google.com/store/apps/details?id=ru.kirillag.mobileappdebugger)
-- [iOS client](https://apps.apple.com/us/app/app-debugger/id1605641206)
+- [iOS client](https://apps.apple.com/app/app-debugger/id1605641206)
 
 run
 
